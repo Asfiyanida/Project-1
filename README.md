@@ -33,4 +33,4 @@ more data in terms of cost vs profit to take further decisions.
 compared with weekends and hence over here analysis must be done
 
 
-There is also a business presentation of this project attached in this repository.
+There is also a business presentation of this project and the data is visualized using PowerBI tool which is attached in this repository.
